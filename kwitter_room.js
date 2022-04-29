@@ -22,5 +22,5 @@ getData();
 
 function logout()
 {
-      window.getlocation(index.html);
+       window.location = "index.html";
 }
