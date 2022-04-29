@@ -19,3 +19,8 @@ function getData() {firebase.database().ref("/").on('value', function(snapshot) 
       //End code
       });});}
 getData();
+
+function logout()
+{
+      window.getlocation(index.html);
+}
